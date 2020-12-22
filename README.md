@@ -1,5 +1,5 @@
 # İstatistik
-![Github](https://github-readme-stats.vercel.app/api?username=Adobewale35&show_icons=true&theme=radical)
+![Github](https://github-readme-stats.vercel.app/api?username=Adebowale35&show_icons=true&theme=radical)
 
 # HAKKIMDA
 * **Kodlamaya ilgisi olan biri ^^**
