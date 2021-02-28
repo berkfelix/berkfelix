@@ -26,6 +26,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![PowerShell](https://img.shields.io/badge/-Powershell-05122A?style=flat&logo=powershell)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
