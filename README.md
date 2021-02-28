@@ -1,4 +1,4 @@
-# Hi there, I'm Felix [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />, I'm Felix
 
 ## I'm a Student (Just Student)  
 
