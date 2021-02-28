@@ -1,4 +1,19 @@
-# Profile
+# Hi there, I'm Felix [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+
+## I'm a Student (Just Student)  
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/6y9zzpwv7gdsex5in1mc8xcwq)
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Adebowale35&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
 
 ### 🛠 &nbsp;Programs And Languages 
 
