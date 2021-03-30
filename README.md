@@ -36,4 +36,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adebowale35&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-**Discord: [Deleted Felix#1447](https://discord.com/users/608920145032904715)**
+**Discord:** ![Deleted Felix#1447](https://discord.com/users/608920145032904715)
