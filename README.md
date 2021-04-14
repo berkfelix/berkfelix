@@ -29,16 +29,16 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+  <p align="center">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adebowale35&theme=algolia"/>
+  </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adebowale35&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </p>
   <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Adebowale35&theme=algolia"/>
 </p>
-  <p align="center">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adebowale35&theme=algolia"/>
-  </p>
+
   
 **Discord:**
  [Deleted Felix#1447](https://discord.com/users/608920145032904715)
