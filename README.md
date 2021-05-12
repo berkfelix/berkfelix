@@ -15,7 +15,6 @@
 
 ### 🛠 &nbsp;Tools and Languages 
 
-<!-- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; -->
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SASS)&nbsp;
@@ -26,7 +25,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PowerShell](https://img.shields.io/badge/-Powershell-05122A?style=flat&logo=powershell)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
 
@@ -43,4 +41,4 @@
 
   
 **Discord:**
- [Berk Felix#1447](https://discord.com/users/608920145032904715)
+ [Berkay?#0001](https://discord.com/users/608920145032904715)
