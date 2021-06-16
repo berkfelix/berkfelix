@@ -30,13 +30,13 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
   <p align="center">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adebowale35&theme=algolia"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkfelix&theme=algolia"/>
   </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adebowale35&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </p>
   <p align="center">
-  <img height="181em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Adebowale35&theme=algolia"/>
+  <img height="181em" src="https://github-readme-stats.vercel.app/api/wakatime?username=berkfelix&theme=algolia"/>
 </p>
 
   
