@@ -1,5 +1,4 @@
-# Hi there <img width="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />, I'm Felix <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Adebowale35&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
+# Hi there <img width="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />, I'm Berk Felix.
 
 ## I'm a Student 
 
@@ -30,6 +29,8 @@
   <p align="center">
   <img height="181em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BerkFelix&theme=algolia"/>
 </p>
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Adebowale35&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
   
 **Discord:**
