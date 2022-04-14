@@ -29,4 +29,4 @@
 </p>
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Adebowale35&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
+[![wakatime](https://wakatime.com/badge/user/f4f82540-904a-4428-882b-8184d5117c67.svg)](https://wakatime.com/@f4f82540-904a-4428-882b-8184d5117c67)
