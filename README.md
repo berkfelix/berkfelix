@@ -19,13 +19,13 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
   <p align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkfelix&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkfelix&theme=algolia"/>
   </p>
 <p align="center">
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=berkfelix&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=berkfelix&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </p>
   <p align="center">
-  <img height="181em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BerkFelix&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BerkFelix&theme=algolia"/>
 </p>
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Adebowale35&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
