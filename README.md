@@ -16,8 +16,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
-
-### ⚙️ &nbsp;GitHub Analytics
+<details>
+  
+  <summary>&nbsp;GitHub Analytics</summary>
+  
   <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkfelix&theme=algolia"/>
   </p>
@@ -27,6 +29,8 @@
   <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BerkFelix&theme=algolia"/>
 </p>
+  
+</details>
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Adebowale35&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 <img align="left"  src="https://wakatime.com/badge/user/f4f82540-904a-4428-882b-8184d5117c67.svg" />
