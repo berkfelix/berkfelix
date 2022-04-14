@@ -1,6 +1,6 @@
 # Hi there <img width="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />, I'm Berk Felix.
 
-## I'm a Student 
+## I'm a Front-end developer(i'm not sure about that)
 
 ---
 
@@ -29,4 +29,4 @@
 </p>
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Adebowale35&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-<img align="left" src"https://wakatime.com/badge/user/f4f82540-904a-4428-882b-8184d5117c67.svg" />
+<img align="left"  src="https://wakatime.com/badge/user/f4f82540-904a-4428-882b-8184d5117c67.svg" />
