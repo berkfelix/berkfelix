@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠 &nbsp;Technologies I use
+### 🛠 &nbsp; <p align="center">Technologies I use </p>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
@@ -28,13 +28,13 @@
   <summary>&nbsp;GitHub Analytics</summary>
   
   <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkfelix&theme=algolia"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkfelix&theme=algolia"/>
   </p>
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=berkfelix&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=berkfelix&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </p>
   <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BerkFelix&theme=algolia"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BerkFelix&theme=algolia"/>
 </p>
   
 </details>
