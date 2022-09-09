@@ -8,7 +8,6 @@ Junior Front End Developer (i guess) & Student
 * 🖥️  See my portfolio at [here](http://berkfelix.vercel.app)
 * 🚀  I'm currently working on [myself :/](http://berkfelix.vercel.app)
 * 🧠  I'm learning nothing :/
-* 🤝  I'm open to collaborating on soon
 
 ### Skills
 
