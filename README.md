@@ -47,7 +47,7 @@ Junior Front End Developer (i guess) & Student
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/berkaycay"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+Maybe 
  
 -----------------------------------
 
