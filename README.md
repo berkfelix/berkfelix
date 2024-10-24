@@ -1,7 +1,7 @@
-Hi 👋 My name is Berk Felix
+Hi 👋 My name is Berkay
 ===========================
 
-Junior Front End Developer (i guess) & Student
+ Front End Developer & Student
 ----------------------------------------------
 
 * 🌍  I'm based in Turkey
@@ -47,7 +47,7 @@ Junior Front End Developer (i guess) & Student
 
 ### Support Me
 
-Maybe 
+
  
 -----------------------------------
 
